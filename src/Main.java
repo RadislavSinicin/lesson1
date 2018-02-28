@@ -28,5 +28,6 @@ public class Main {
         System.out.println(num+num3+num4);
         System.out.println(num1);
         System.out.println(num2);
+        System.out.println("FIXXXXXXXXX");
     }
 }
